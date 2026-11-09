@@ -12,6 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Supernova Partikel](ebook/Supernova Partikel.pdf) - Dee Lestari (2012)
 9. [Supernova Gelombang](ebook/Supernova Gelombang.pdf) - Dee Lestari (2014)
 10. [Supernova Inteligensi Embun Pagi](ebook/Supernova Inteligensi Embun Pagi.pdf) - Dee Lestari (2016)
+11. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
 
 ---
 Powered by GitHub Pages
