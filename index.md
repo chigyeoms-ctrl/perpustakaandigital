@@ -13,6 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Supernova Gelombang](ebook/Supernova Gelombang.pdf) - Dee Lestari (2014)
 10. [Supernova Inteligensi Embun Pagi](ebook/Supernova Inteligensi Embun Pagi.pdf) - Dee Lestari (2016)
 11. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
-12. [UGC_13040124120037_CHELSYA RAHMA CAHYANI](ebook/UGC_13040124120037_CHELSYA RAHMA CAHYANI.pdf) - Chelsya (2026)
+12. [UGC_13040124120037_CHELSYA RAHMA CAHYANI](ebook/UGC_13040124120037_CHELSYA RAHMA CAHYANI.PDF) - Chelsya (2026)
 ---
 Powered by GitHub Pages
